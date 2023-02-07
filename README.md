@@ -1,6 +1,6 @@
 # GlobeShoppers
 A online trading platform called GlobeShoppers which allows it's users to purchase items from overseas and avoid shipping costs
-This was a part of a group project created for SENG2021.
+This was a part of a group project.
 
 ## Running on:
 https://globeshoppers.herokuapp.com/
